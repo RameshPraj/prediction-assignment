@@ -1,6 +1,6 @@
 ---
 title: "Practical Machine Learning Course Project"
-author: "Binod Pathak"
+author: "Ramesh Prajapati"
 date: "May 29, 2016"
 output:
   html_document:
